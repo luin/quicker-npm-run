@@ -4,7 +4,7 @@ Alternative to `npm run` with support for autocomplete.
 ## Install
 
 ```
-npm install quicker-npm-run
+npm install -g quicker-npm-run
 ```
 
 ## Usage

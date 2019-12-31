@@ -15,9 +15,7 @@
     "mocha": "^6.2.2"
   },
   "scripts": {
-    "test": "mocha",
-    "test1": "mocha",
-    "test2": "mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
